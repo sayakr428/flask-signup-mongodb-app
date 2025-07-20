@@ -22,3 +22,23 @@ If you're doing this manually, replicate the structure above.
 
 ### 2. Create a `.env` file (NOT to be uploaded)
 
+### 3. Technologies Used
+
+Python (Flask)
+
+MongoDB (via MongoDB Atlas)
+
+HTML/CSS
+
+Bootstrap
+
+JavaScript
+
+### 4. requirements
+
+```
+Flask==2.3.3
+pymongo==4.6.1
+dnspython==2.5.0
+python-dotenv==1.0.1
+```
